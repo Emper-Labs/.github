@@ -6,10 +6,10 @@ Building open-source technologies for scientific simulation.
 
 ## Projects
 
-| Repository | Description |
-|------------|-------------|
-| emper-engine | Core simulation engine |
-| emper-samples | Examples and tutorials |
+Emper Labs develops an open ecosystem of reusable technologies
+for scientific simulation.
+
+Explore the repositories to see the current projects and experiments.
 
 More projects will be added as Emper Labs grows.
 
@@ -165,26 +165,16 @@ Objects, particles, atoms, cells, and organisms are data.
 Behaviors belong to algorithms and systems, not to the data itself.
 ---
 
-# Ecosystem
+## Ecosystem
 
-The long-term goal is an ecosystem similar to:
+Emper is designed as a modular ecosystem.
 
-```
-Emper Labs
+The core provides the infrastructure required to build simulations,
+while domain-specific algorithms and implementations live in
+independent modules and applications.
 
-├── emper-engine
-├── emper-render-sdl3
-├── emper-spatial
-├── emper-physics
-├── emper-chemistry
-├── emper-biology
-├── emper-ecology
-├── emper-fluid
-├── emper-ai
-└── community packages
-```
-
-Each project should remain focused on a single responsibility.
+The ecosystem is expected to grow organically through real simulation
+workloads and community contributions.
 
 ---
 
