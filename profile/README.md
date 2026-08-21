@@ -200,9 +200,3 @@ Before introducing a new abstraction, please ask:
 - Does it keep the engine simpler?
 
 Small, focused improvements are preferred over large speculative designs.
-
----
-
-# License
-
-MIT License.
