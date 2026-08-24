@@ -1,6 +1,7 @@
 # Emper Labs
 
-Building open-source technologies for scientific simulation.
+> This README is currently being rewritten.
+>
+> The project documentation and descriptions are being updated to accurately reflect the current state of Emper Labs.
 
----
- I need rewrite all stupid shit :V
+More information coming soon.
