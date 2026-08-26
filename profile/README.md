@@ -1,32 +1,32 @@
 # Emper Labs
 
 ```
-    github.com/Emper-Labs
-            │
-            ▼
-    "WHAT IS EMPER?"
-            │
-            ├──────────────┐
-            ▼              ▼
-    emper-engine     emper-modules
-    "HOW ENGINE      "HOW SIMULATIONS
-    WORKS?"           ARE BUILT?"
-            │              │
-            ├──────┬───────┘
-            ▼      ▼
-    backends   samples
-    "HOW       "WHAT CAN
-    PLATFORM    I RUN?"
-    CODE WORKS"
-            │
-            ▼
-    emper-docs
-    "WHY IS IT DESIGNED
-        THIS WAY?"
-            │
-            ▼
-    Emper-Labs workspace
-    "HOW DO I BUILD
+
+github.com/Emper-Labs
+        │
+        ▼
+   "WHAT IS EMPER?"
+        │
+        ├──────────────────────────┐
+        ▼                          ▼
+ emper-engine                emper-modules
+ "HOW DOES THE ENGINE        "HOW ARE SIMULATION
+  WORK?"                      MODULES BUILT?"
+        │                          │
+        ├──────────────┬───────────┘
+        ▼              ▼
+    backends         samples
+ "HOW DOES THE     "WHAT CAN I
+  PLATFORM WORK?"   BUILD & RUN?"
+        │              │
+        └───────┬──────┘
+                ▼
+           emper-docs
+        "WHY THIS DESIGN?"
+                │
+                ▼
+      Emper-Labs workspace
+       "HOW DO I BUILD
         EVERYTHING?"
 
 ```
