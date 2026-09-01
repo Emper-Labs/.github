@@ -168,7 +168,7 @@ AI is a development tool, not the person responsible for the PR.
 
 Before opening a Pull Request:
 
-1. Create a dedicated branch for your changes.
+1. Create a dedicated branch in your fork for your changes.
 2. Keep the scope focused.
 3. Make sure the project builds successfully.
 4. Run relevant tests.
